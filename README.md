@@ -51,7 +51,7 @@ learnhub/
 - Code editor (e.g., VS Code)
 **Clone the Project**
 ```
-git clone <repository-url>
+git clone <repository-url>: 
 cd learnhub
 ```
 **Install Frontend Dependencies**
@@ -109,5 +109,25 @@ Milestone 5: Project Implementation
 📦 Code Drive: _[Insert shared Google Drive or GitHub link]_
 📝 License
 This project is open-source and free to use for educational purposes.
+
 Screenshots:
 ![Image](https://github.com/user-attachments/assets/ae89aa80-2ea7-4dbc-9b8b-5bb56d679fd9)
+
+
+![image](https://github.com/user-attachments/assets/9e3e0531-2a40-4ce7-830c-7bebf6238ae2)
+
+
+Ok![image](https://github.com/user-attachments/assets/3b9e5499-28b2-4d81-91ea-6ffedae638ec)
+
+
+![image](https://github.com/user-attachments/assets/ce75c583-a888-4c43-b25e-6af3d3c6ca56)
+
+
+![image](https://github.com/user-attachments/assets/9eb2b9c0-00a9-47ea-9686-0c9b5128ee50)
+
+
+![image](https://github.com/user-attachments/assets/d45563ce-c0d0-4065-bffc-82aec1deb1b3)
+
+
+![image](https://github.com/user-attachments/assets/c3d0126b-9762-4c72-a891-9f30fb0c8390)
+
