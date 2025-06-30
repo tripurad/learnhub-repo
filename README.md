@@ -51,7 +51,7 @@ learnhub/
 - Code editor (e.g., VS Code)
 **Clone the Project**
 ```
-git clone <repository-url>: 
+git clone <repository-url>: https://github.com/tripurad/learnhub-repo.git
 cd learnhub
 ```
 **Install Frontend Dependencies**
@@ -105,7 +105,7 @@ Milestone 5: Project Implementation
 - Final testing and UI enhancements
 - Functional dashboards for Admin, Teacher, Student
 🚀 Project Demo
-🎬 Demo Video: `project-implementation.mp4`
+🎬 Demo Video: https://drive.google.com/file/d/1ijav4VUrWqTayZ8RG3QuwzDagu0uIIMp/view?usp=drive_link
 📦 Code Drive: _[Insert shared Google Drive or GitHub link]_
 📝 License
 This project is open-source and free to use for educational purposes.
