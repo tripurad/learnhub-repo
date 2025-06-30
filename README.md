@@ -50,10 +50,11 @@ learnhub/
 - Git: https://git-scm.com/
 - Code editor (e.g., VS Code)
 **Clone the Project**
-```
-git clone <repository-url>: https://github.com/tripurad/learnhub-repo.git
+```    
+git clone <repository-url>
 cd learnhub
 ```
+https://github.com/tripurad/learnhub-repo.git
 **Install Frontend Dependencies**
 ```
 cd frontend
